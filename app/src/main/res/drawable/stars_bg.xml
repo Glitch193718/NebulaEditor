@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <!-- Deep Space Gradient -->
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:startColor="#0A0B16"
+                android:endColor="#1E2A47"
+                android:angle="45" />
+        </shape>
+    </item>
+    
+    <!-- Stars Pattern -->
+    <item android:top="100dp" android:left="50dp">
+        <shape android:shape="oval">
+            <size android:width="2dp" android:height="2dp"/>
+            <solid android:color="#FFFFFF" />
+        </shape>
+    </item>
+    
+    <item android:top="200dp" android:left="150dp">
+        <shape android:shape="oval">
+            <size android:width="1dp" android:height="1dp"/>
+            <solid android:color="#FFFFFF" />
+        </shape>
+    </item>
+    
+    <item android:top="300dp" android:left="80dp">
+        <shape android:shape="oval">
+            <size android:width="3dp" android:height="3dp"/>
+            <solid android:color="#FFD166" />
+        </shape>
+    </item>
+    
+    <item android:top="400dp" android:left="200dp">
+        <shape android:shape="oval">
+            <size android:width="2dp" android:height="2dp"/>
+            <solid android:color="#FFFFFF" />
+        </shape>
+    </item>
+    
+    <item android:top="500dp" android:left="120dp">
+        <shape android:shape="oval">
+            <size android:width="1dp" android:height="1dp"/>
+            <solid android:color="#FF6B9D" />
+        </shape>
+    </item>
+    
+    <item android:top="150dp" android:left="250dp">
+        <shape android:shape="oval">
+            <size android:width="2dp" android:height="2dp"/>
+            <solid android:color="#FFFFFF" />
+        </shape>
+    </item>
+    
+    <item android:top="350dp" android:left="300dp">
+        <shape android:shape="oval">
+            <size android:width="1dp" android:height="1dp"/>
+            <solid android:color="#6C63FF" />
+        </shape>
+    </item>
+    
+    <!-- Nebula Effect -->
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:startColor="#306C63FF"
+                android:endColor="#10FF6B9D"
+                android:angle="135"
+                android:type="radial"
+                android:gradientRadius="400dp"
+                android:centerX="0.8"
+                android:centerY="0.2" />
+        </shape>
+    </item>
+    
+</layer-list>
