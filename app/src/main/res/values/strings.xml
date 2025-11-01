@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Nebula Editor</string>
+    <string name="welcome_title">🌌 Nebula Editor</string>
+    <string name="welcome_subtitle">AI видеоредактор</string>
+    <string name="select_video">Выберите видео</string>
+    <string name="processing">Обработка…</string>
+    
+    <!-- Quality Settings -->
+    <string name="quality_lossless">💎 Без сжатия</string>
+    <string name="quality_compressed">📦 Со сжатием</string>
+    <string name="quality_ai">🤖 ИИ Улучшение</string>
+    
+    <!-- Format Names -->
+    <string name="format_1x1">1:1</string>
+    <string name="format_9x16">9:16</string>
+    <string name="format_16x9">16:9</string>
+    <string name="format_4x5">4:5</string>
+    <string name="format_1x2">1:2</string>
+    <string name="format_2x1">2:1</string>
+    
+    <!-- Actions -->
+    <string name="contact_dev">Заказать приложение</string>
+    <string name="view_releases">Релизы</string>
+    <string name="start_processing">🚀 НАЧАТЬ ОБРАБОТКУ</string>
+    
+    <!-- Messages -->
+    <string name="no_video_selected">Файл не выбран</string>
+    <string name="video_selected">Выбрано: %s</string>
+    <string name="processing_prepare">Подготовка к обработке…</string>
+    <string name="processing_analyzing">Анализ видео…</string>
+    <string name="processing_processing">Обработка видео…</string>
+    <string name="processing_complete">Обработка завершена!</string>
+    <string name="error_no_video">Сначала выберите видео</string>
+    <string name="error_processing">Ошибка обработки</string>
+    
+    <!-- Dialog Messages -->
+    <string name="dialog_confirm_title">🚀 Запуск обработки</string>
+    <string name="dialog_confirm_message">Формат: %s\nКачество: %s\n\nПродолжить?</string>
+    <string name="dialog_success_title">🎉 Успешно!</string>
+    <string name="dialog_success_message">Видео обработано!\n\nФормат: %s\nКачество: %s\nРазмер: %d МБ</string>
+    <string name="dialog_welcome_title">🌌 Добро пожаловать в Nebula Editor!</string>
+    <string name="dialog_welcome_message">Видеоредактор с ИИ-улучшением\n\n• Выберите видео\n• Настройте качество\n• Выберите формат\n• Обработайте!</string>
+    
+    <!-- Button Texts -->
+    <string name="btn_confirm">Вперед</string>
+    <string name="btn_cancel">Отмена</string>
+    <string name="btn_share">Поделиться</string>
+    <string name="btn_close">Закрыть</string>
+    <string name="btn_again">Еще раз</string>
+    <string name="btn_start">Начать</string>
+</resources>
