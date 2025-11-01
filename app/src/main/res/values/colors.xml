@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0F1020</color>
+    <color name="colorPrimaryDark">#0A0B16</color>
+    <color name="colorAccent">#6C63FF</color>
+    
+    <!-- Nebula Colors -->
+    <color name="nebula_purple">#6C63FF</color>
+    <color name="space_blue">#1E2A47</color>
+    <color name="cosmic_pink">#FF6B9D</color>
+    <color name="star_yellow">#FFD166</color>
+    <color name="deep_space">#0A0B16</color>
+    
+    <!-- UI Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0B0B0</color>
+    <color name="text_accent">#6C63FF</color>
+</resources>
